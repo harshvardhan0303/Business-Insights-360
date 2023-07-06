@@ -16,3 +16,6 @@ Dependencies: MS Excel , SQL queries for checking the errors present in the raw 
 Performance Metrics: MS Excel , MySQL , DAX and M language, Measures in Power BI.
 
 ## Project Architecture
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/ec1ac792-4c0c-48ae-99d8-31590e578db0)
+
