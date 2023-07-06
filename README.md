@@ -27,4 +27,34 @@ Here, I am going to attach all the dashboards combinly, which I have created for
 
 ![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/ccd687e2-075a-42d6-9089-c3c00ec20fa1)
 
+##Finance View -
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/d85625a9-571b-4f38-93ac-3db794d53279)
+
+##Sales View - 
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/48e432f5-6e1a-4350-8619-9e5e66401496)
+
+##Marketing View -
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/e113024c-58ba-4c52-a308-927d67039a24)
+
+##Supply Chain View -
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/db924f97-f562-4f33-8b55-638c6d6ab318)
+
+##Executive View -
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/d4d0dead-4d77-419d-886c-b8b819187ccc)
+
+##Info Page
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/66cd3909-0301-4eb0-9367-81812d63fd8d)
+
+##Support
+
+![image](https://github.com/harshvardhan0303/Business-Insights-360/assets/91109131/d294e8ba-635c-4d92-8b1c-dda561c53cc7)
+
+
+After creating all these dashboards for different sectors of the organizations, with the permission of the organization I have deployed it on Power BI services, so that with the more addition in data there is no need to make this report again, it will automatic update after refreshing the data.
 
